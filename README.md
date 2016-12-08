@@ -10,8 +10,9 @@ Get more info: [http://uirecorder.com/](http://uirecorder.com/)
 How to run test case?
 ================
 
-1. npm install
-2. source run.sh ( Linux|Mac ) or run.bat ( Windows )
+1. `macaca server --port 4444`
+1. `npm install`
+2. `source run.sh` ( Linux|Mac ) or `run.bat` ( Windows )
 
 How to dock jenkins?
 ================
